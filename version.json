@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://abhijeet917.github.io/OTA_DRIVE/ESP32_GitHub_OTA.ino.bin",
+  "version": "1.0.2",
+  "url": "https://abhijeet917.github.io/OTA_DRIVE/Esp32_ota_ack.ino.bin",
   "target": "device-001"
 }
